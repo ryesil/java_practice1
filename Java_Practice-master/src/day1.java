@@ -1,7 +1,7 @@
 public class day1 {
 
     public static void main(String[] args){
-
+        //Bunu ben gonderdim
         checkNumber(25);
 checkNumber(-5);
 
